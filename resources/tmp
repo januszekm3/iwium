@@ -1,0 +1,37 @@
+//            if(tmp >= 11 && getVal(pfs, i) > 0 && tmp < 13) {
+//                System.out.println("Numer " + (i+1));
+//                if(getVal(age, i) == 0) {
+//                    System.out.println("Brakuje age");
+//                }
+//                if(getVal(bmi, i) == 0) {
+//                    System.out.println("Brakuje bmi");
+//                }
+//                if(getVal(bones, i) == 0) {
+//                    System.out.println("brakuje bones");
+//                }
+//                if(getVal(featureG, i) == 0) {
+//                    System.out.println("brakuje featureG");
+//                }
+//                if(getVal(featureM, i) == 0) {
+//                    System.out.println("brakuje featureM");
+//                }
+//                if(getVal(featureN, i) == 0) {
+//                    System.out.println("brakuje featureN");
+//                }
+//                if(getVal(featureT, i) == 0) {
+//                    System.out.println("breakuje featureT");
+//                }
+//                if(getVal(liver, i) == 0) {
+//                    System.out.println("brakuje liver");
+//                }
+//                if(getVal(lungs, i) == 0) {
+//                    System.out.println("brakuje lungs");
+//                }
+//                if(getVal(lymphGland, i) == 0) {
+//                    System.out.println("breakuje lymph");
+//                }
+//                if(getVal(sex, i) == 0) {
+//                    System.out.println("breakuje sex");
+//                }
+//                count++;
+//            }
